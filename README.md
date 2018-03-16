@@ -1,2 +1,2 @@
 # HandwrittenNumberDiscern
-基于opencv机器tensorflow实现的手写数字识别
+基于opencv从摄像头读取手写数字,利用mnist数据集训练tensorflow的模型实现手写数字识别
